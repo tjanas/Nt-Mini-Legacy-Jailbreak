@@ -1,6 +1,6 @@
 # Nt-Mini-Legacy-Jailbreak
 
-Custom _Jailbreak_ firmware for the original "OG" Analogue Nt Mini V1, released in 2017.
+Custom _Jailbreak_ firmware [released by kevtris](https://atariage.com/forums/topic/242970-fpga-based-videogame-system/) for the original "OG" Analogue Nt Mini V1, released in 2017.
 
 It supports the following cores:
 
