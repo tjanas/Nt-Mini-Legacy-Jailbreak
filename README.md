@@ -23,4 +23,4 @@ It supports the following cores:
 - Odyssey<sup>2</sup>
 - RCA Studio 2
 
-Release notes and directions are included in README.txt within the zip file for the latest jailbreak firmware (version 2.0).
+Release notes and directions are included in README.txt within the zip file for the [latest jailbreak firmware (version 2.0)](https://github.com/tjanas/Nt-Mini-Legacy-Jailbreak/raw/main/firmware/ntm_firmware_verJB2.0.zip).
